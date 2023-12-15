@@ -1,6 +1,8 @@
 # Unriddle Changelog
 Features, fixes and improvements to Unriddle.
 
+
+
 ## New Welcome Page
 November 30, 2023
 

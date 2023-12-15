@@ -1,9 +1,11 @@
 # Unriddle Changelog
 Features, fixes and improvements to Unriddle.
 
-New Welcome Page
-
+## New Welcome Page
 November 30, 2023
+
+![](https://storage.googleapis.com/chat-book/clq71mlyb00003b75j8l6207w)
+
 
 Introducing the new app welcome page! Here you'll find quick action buttons for creating a Note, importing documents to your library, a list of recently opened documents and a site-wide search menu.
 
